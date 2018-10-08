@@ -1,3 +1,4 @@
+# This library is no longer being updated. Please consider using something else.
 # python-discord-rpc
 
 Implementation of Discord's Rich Presence using Python. Based off of [Snazzah's SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
